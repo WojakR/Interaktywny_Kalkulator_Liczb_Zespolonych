@@ -6,7 +6,6 @@ Edukacyjna aplikacja webowa stworzona w celu wizualizacji operacji matematycznyc
 
 ## 👨‍🎓 Autor
 * **Imię i Nazwisko:** Wojciech Regulski
-* **Nr indeksu:** 337612
 
 ## ✨ Funkcjonalności
 * **Zaawansowane operacje:** Dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie oraz wyciąganie pierwiastków n-tego stopnia.
@@ -23,11 +22,11 @@ Edukacyjna aplikacja webowa stworzona w celu wizualizacji operacji matematycznyc
 * **Stylizacja:** Tailwind CSS
 * **Ikony:** Lucide React
 
-## 🚀 Uruchomienie lokalne (dla prowadzącego)
+## 🚀 Uruchomienie projektu
 
 Aby uruchomić projekt na własnej maszynie, upewnij się, że posiadasz zainstalowane środowisko Node.js z oficjalnej strony. Następnie wykonaj poniższe kroki w terminalu:
 
-**Krok 1:** Rozpakuj archiwum ZIP lub sklonuj projekt z repozytorium: ` i przejdź do głównego folderu projektu:
+**Krok 1:** Rozpakuj archiwum ZIP lub sklonuj projekt z repozytorium: `https://github.com/WojakR/Interaktywny_Kalkulator_Liczb_Zespolonych` i przejdź do głównego folderu projektu:
 `cd Interaktywny_Kalkulator_Liczb_Zespolonych`
 
 **Krok 2:** Zainstaluj wszystkie wymagane zależności (automatycznie utworzy się folder node_modules):
@@ -37,12 +36,3 @@ Aby uruchomić projekt na własnej maszynie, upewnij się, że posiadasz zainsta
 `npm run dev`
 
 **Krok 4:** Otwórz przeglądarkę i wejdź pod adres wygenerowany w terminalu (zazwyczaj jest to `http://localhost:5173/`).
-
-## 📁 Struktura projektu
-* `src/components/` - Komponenty interfejsu (Formularz, Wykres, Historia)
-* `src/utils/` - Czysta logika biznesowa (complexMath.js)
-* `src/App.jsx` - Główny komponent zarządzający stanem
-* `src/main.jsx` - Punkt wejścia aplikacji React
-
-## 📝 Status projektu
-Projekt został zrealizowany w 100% zgodnie z pierwotnymi założeniami i jest gotowy do oceny.
