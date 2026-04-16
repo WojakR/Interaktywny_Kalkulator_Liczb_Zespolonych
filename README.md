@@ -36,3 +36,9 @@ Aby uruchomić projekt na własnej maszynie, upewnij się, że posiadasz zainsta
 `npm run dev`
 
 **Krok 4:** Otwórz przeglądarkę i wejdź pod adres wygenerowany w terminalu (zazwyczaj jest to `http://localhost:5173/`).
+
+## 📁 Struktura projektu
+* `src/components/` - Komponenty interfejsu (Formularz, Wykres, Historia)
+* `src/utils/` - Czysta logika biznesowa (complexMath.js)
+* `src/App.jsx` - Główny komponent zarządzający stanem
+* `src/main.jsx` - Punkt wejścia aplikacji React
